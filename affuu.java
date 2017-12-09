@@ -2,6 +2,6 @@ class affuu
 {
 	public static void main(String args[])
 	{
-		System.out.println("Affuu");
+		System.out.println("udaykirna");
 	}
 }
