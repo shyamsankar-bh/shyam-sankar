@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("Fuck off raghu\n");
+	printf("sai 1 cup chai\n");
 	return 0;
 }
