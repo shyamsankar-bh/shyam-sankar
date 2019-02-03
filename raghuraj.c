@@ -2,5 +2,5 @@
 #include<unistd.h>
 int main()
 {
-	printf("please go to hell please");
+	printf("please go to heaven please");
 return 0;}
